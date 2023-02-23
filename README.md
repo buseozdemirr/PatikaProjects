@@ -1,1 +1,2 @@
-# PatikaProjects
+# Patika.dev 
+C# Projeleri
