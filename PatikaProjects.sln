@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrtalamaHesaplama", "OrtalamaHesaplama\OrtalamaHesaplama.csproj", "{51EC130C-7566-42CB-9815-12B219BF3B5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrtalamaHesaplama", "OrtalamaHesaplama\OrtalamaHesaplama.csproj", "{51EC130C-7566-42CB-9815-12B219BF3B5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcgenCizme", "UcgenCizme\UcgenCizme.csproj", "{80669D84-5C89-4919-9272-45137544A4C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UcgenCizme", "UcgenCizme\UcgenCizme.csproj", "{80669D84-5C89-4919-9272-45137544A4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaireCizme", "DaireCizme\DaireCizme.csproj", "{D0DA0074-12EF-4A09-A7EF-5F2BB5FED4EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{80669D84-5C89-4919-9272-45137544A4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80669D84-5C89-4919-9272-45137544A4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80669D84-5C89-4919-9272-45137544A4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DA0074-12EF-4A09-A7EF-5F2BB5FED4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DA0074-12EF-4A09-A7EF-5F2BB5FED4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DA0074-12EF-4A09-A7EF-5F2BB5FED4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DA0074-12EF-4A09-A7EF-5F2BB5FED4EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
